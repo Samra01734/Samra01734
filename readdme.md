@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basit Ali</h1>
+<h1 align="center">Hi 👋, I'm  Samra muqadas</h1>
 <h3 align="center">🚀 MERN Stack Developer | DevHustle Creator</h3>
 
 ---
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m working on **MERN Stack Projects**
-- 🌱 Currently learning **Next.js, DevOps, AI**
+- 🌱 Currently learning **Next.js, langchain,Rag applications, AI**
 - 🚀 Building **Startup Level Projects**
 - 🎯 Goal: Become **Top Developer**
 
