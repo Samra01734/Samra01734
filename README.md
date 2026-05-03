@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samra Muqadas</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Startup-Level Products | DevHustle Creator</h3>
+<h1 align="center">Hi , I'm Samra Muqadas</h1>
+<h3 align="center">MERN Stack Developer | Building Startup-Level Products | DevHustle Creator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samra-muqadas-0329092b6">
