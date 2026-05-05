@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Samra Muqadas</h1>
+<h1 align="center">Hi👋 , I'm Samra Muqadas</h1>
 <h3 align="center">MERN Stack Developer | Building Startup-Level Products | DevHustle Creator</h3>
 
 <p align="center">
