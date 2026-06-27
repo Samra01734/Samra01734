@@ -20,7 +20,7 @@
 - 🔭 Working on **MERN Stack & AI Projects**
 - 🌱 Learning **Next.js, LangChain, RAG Applications, AI Engineering**
 - ⚡ Building **Real Startup-Level Applications**
-- 🎯 Mission: Become a **Top 1% Developer**
+- 🎯 Mission: Become a **Top Developer**
 - 💡 Passionate about **Automation, AI & Scalable Systems**
 
 ---
