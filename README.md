@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Samra%20Muqadas-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://youtube.com/@samramuqadas">
-    <img src="https://img.shields.io/badge/YouTube-DevHustle-red?style=for-the-badge&logo=youtube">
+    <img src="https://img.shields.io/badge/YouTube-Sam_Ashu_World-red?style=for-the-badge&logo=youtube">
   </a>
 </p>
 
