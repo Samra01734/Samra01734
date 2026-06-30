@@ -82,6 +82,6 @@
 <p align="center">
   
 > **Code. Build. Scale. Repeat. 🚀**  
-> Turning ideas into real-world products.
+> Turning ideas into realWorld products.
 
 </p>
