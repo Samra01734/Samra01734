@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 - 🔭 Working on **MERN Stack & SAAS Projects**
 - 🌱 Learning **Next.js, LangChain, RAG Applications, AI Engineering**
 - ⚡ Building **Real Startup-Level Applications**
