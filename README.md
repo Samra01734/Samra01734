@@ -17,7 +17,7 @@ o<h1 align="center">Hi , I'm Samra Muqadas</h1>
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Working on **MERN Stack & SAAS Projects**
+- 🔭 Working on **MERN Stack & SAAS Projects..**
 - 🌱 Learning **Next.js, LangChain, RAG Applications, AI Engineering**
 - ⚡ Building **Real Startup-Level Applications**
 - 🎯 Mission: Become a **Top Developer**
