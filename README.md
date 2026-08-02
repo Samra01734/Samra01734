@@ -1,4 +1,4 @@
-o<h1 align="center">Hi , I'm Samra Muqadas.............</h1>
+o<h1 align="center">Hi , I'm Samra Muqadas</h1>
 <h3 align="center">MERN Stack Developer | Building Startup-Level Products | </h3>
 
 <p align="center">
